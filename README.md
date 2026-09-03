@@ -1,1 +1,1 @@
-# transaccion
+# transacción

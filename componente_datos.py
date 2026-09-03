@@ -2,7 +2,7 @@ import pandas as pd
 
 def cargar_y_validar_transacciones(file):
     """
-    Carga el archivo de transacciones y valida que cumpla las reglas del examen.
+    Carga el archivo de transacciones y valida que cumpla las reglas del examen
     """
     df = pd.read_csv(file)
 

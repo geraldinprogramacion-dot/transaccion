@@ -9,3 +9,4 @@ def detectar_anomalias(df: pd.DataFrame) -> pd.DataFrame:
     df_fraudulentas = df[filtro_fraude]
     
     return df_fraudulentas
+#

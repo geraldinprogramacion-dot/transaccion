@@ -16,7 +16,7 @@ st.title("💰 Detección de Fraude Streaming")
 st.subheader("Sistema en Tiempo Real de Detección de Anomalías en Transacciones")
 st.write(
     "Visualizar en tiempo real el fraude con tarjeta de crédito clonadas, "
-    "la tarjeta crítica y la predicción de riesgo operativo y congelar previamente las operaciones sospechosas."
+    "la tarjeta crítica y la predicción de riesgo operativo y congelar previamente las operaciones sospechosas"
 )
 
 # Control de estado de la sesión
